@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Tea
+GenericName=Tea text editor
+GenericName[ru]=Текстовый редактор Tea
+Categories=Qt;Utility;TextEditor;
+MimeType=video/avi;video/mp4;video/flv;video/mpeg;video/quicktime;video/vnd.rn-realvideo;video/x-matroska;video/x-ms-asf;video/x-msvideo;video/x-ms-wmv;video/x-ogm;video/x-theora;
+TryExec=tea
+Exec=tea
+StartupNotify=true
+Terminal=false
+Type=Application
