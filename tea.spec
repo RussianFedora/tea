@@ -1,6 +1,6 @@
 Name:           tea
-Version:        31.0.0
-Release:        2%{?dist}.R
+Version:        33.1.0
+Release:        1%{?dist}
 Summary:        TEA text editor
 
 License:        GPLv3
@@ -40,8 +40,8 @@ update-desktop-database -q
 
 
 %changelog
-* Wed Sep 22 2011 Vasiliy N. Glazov <vascom2@gmail.com> - 31.0.0-2.R
-- Added desktop file
+* Thu Jun 14 2012 Vasiliy N. Glazov <vascom2@gmail.com> - 33.1.0-1.R
+- Update to 33.1.0
 
 * Wed Sep 21 2011 Vasiliy N. Glazov <vascom2@gmail.com> - 31.0.0-1.R
 - Initial release
